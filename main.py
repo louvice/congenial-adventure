@@ -1,2 +1,0 @@
-i = 'zhouheng'
-print(i)
